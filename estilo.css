@@ -1,0 +1,26 @@
+#miDiv {
+display:inline-block;
+float:inline-start;
+margin-left: 200px;
+color: antiquewhite;
+
+}  
+
+h1{
+text-align: center;
+color: #15f3ce;
+font-style:initial;
+}
+body{
+background-image: url("https://img.freepik.com/fotos-premium/fondos-pantalla-pajaros-coloridos-rama_931576-2501.jpg");
+background-size:cover ;
+
+}
+div{
+    margin-bottom: 2%;
+    color: rgb(248, 24, 173);
+    font-weight: bold;
+    margin-left: 4%;
+    margin-right:4%;
+    
+}
